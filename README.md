@@ -7,9 +7,17 @@
 <div>
     <div>Скриншоты операций в Postman:</div>
     <img src="pics/POST1.jpg" alt="main_page">
+    <br>
+    <div>==============================</div>
     <img src="pics/POST2.jpg" alt="main_page">
+    <br>
+    <div>==============================</div>
     <img src="pics/GETALL.jpg" alt="main_page">
+    <br>
+    <div>==============================</div>
     <img src="pics/GETONE.jpg" alt="main_page">
+    <br>
+    <div>==============================</div>
 </div>
 <br>
 <div>-Для того, чтобы запустить приложение на вашем хосте, вам необходимо создать файл <i>.env</i> в корневой папке 
